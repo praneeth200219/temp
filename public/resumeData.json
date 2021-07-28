@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name":"Praneeth Nemani",
+    "occupation":"ML Researcher and Data Analyst",
+    "description":"I like to explore and understand different topics and I am passionate about computer programming.",
+    "image":"profilepic.jpg",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "nemanipraneeth@gmail.com",
+    "phone": "+917337462716",
+    "address":{
+      "city":"Hyderabad",
+      "state":"India",
+      "zip": "500049"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NemaniPraneeth",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/praneeth-nemani-273393191",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rammazzoti2000",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:nemanipraneeth@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Dr. SPM International Institute of Information Technology - IIIT Naya Raipur",
+        "degree":"B.Tech in Computer Science and Engineering",
+        "graduated":"2019-2023",
+        "description":"Relevant Coursework: Data Structures and Algorithms, Machine Learning, Deep Learning, Data Analytics, Optimization Techniques, Python Programming, Calculus and Computer Vision"
+      },
+      {
+        "school":"FIITJEE Junior College",
+        "degree":"TSBIE Class 12",
+        "graduated":"2017 - 2019",
+        "description":"Relevant Coursework: Maths, Physics, Chemistry."
+      }
+    ],
+    "work":[
+      {
+        "company": "Programming Languages: ",
+        "years": "Python 3.6, C, Java"
+      },
+      {
+        "company": "Machine Learning Frameworks: ",
+        "years": "Scikit-Learn, Tensorflow, Keras, PyTorch, CV2, NLTK, Spacy"
+      },
+      {
+        "company": "Web Development Frameworks: ",
+        "years": "HTML, CSS, React.js, Node.js, Django and Flask"
+      },
+      {
+        "company": "Database: ",
+        "years": "Postgre SQL"
+      },
+      {
+        "company": "Data Analysis Libraries",
+        "years": "Pandas, Numpy, Scipy, Matplotlib, Seaborn"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Praneeth is great in Machine Learning and NLP. His contributions in NLP and ML in the form of self projects, courses makes him stand out from the crowd. He is also a very hardworking person with good communication skills.",
+        "user":"Krutika Bapat | Software Engineer - Microsoft"
+      },
+      {
+        "text":"I have seen Praneeth exploring different areas of Computer Science including Web Development, Machine Learning & Deep Learning to name a few, with equal amount of interest and passion. I am glad to see Praneeth discovering these fields so well and find him as one of the knowledgeable individuals of IIIT-Naya Raipur. Happy to recommend him.",
+        "user":"Palak Arora | Analyst-Business Systems at American Express"
+      }
+    ]
+  }
+}
